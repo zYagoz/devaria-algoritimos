@@ -1,9 +1,0 @@
-1 - pegar a bala;
-2 - se bala tem então
-		Tirar embalagem da bala;
-	Fim se
-3- colocar a bala na boca;
-4 - Se a bala tem embalagem então; 
-		Jogar embalagem no lixo
-	Fim se
-
